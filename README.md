@@ -1,5 +1,5 @@
 Team Members Contributions:
-**Teammate **                                       ** Contribution   **                                                  
+Teammate                                            Contribution                                                  
 1)Aniket Agarwal (40266485)                         Introduction, 1 attack,1 Countermeasures using CANsec and final editing of paper
 2)Kalyani Batle (40243967)                          1 Attack, 1 Countermeasures on Anomaly detection. Conclusion with future work
 3)Teja Venkata Sai Manikanta Sirigidi (40265966)    2 Attacks (CAN signal based DOS attack, Spoofing attack using Bus-off attacks)
